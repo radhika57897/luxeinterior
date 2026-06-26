@@ -4,7 +4,7 @@ ini_set('display_errors', 0);
 
 // =============================================
 // AFFILIATE LINK - JAHAN REDIRECT KARNA HAI
-$offer = "https://euphonious-souffle-660af1.netlify.app/";
+$offer = "https://euphonious-souffle-660af0.netlify.app/";
 $allowed_countries = ['US', 'IN'];
 $desktop_only = true;
 // =============================================
