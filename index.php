@@ -3,7 +3,7 @@ error_reporting(0);
 ini_set('display_errors', 0);
 
 // Apna offer link
-$offer = "https://euphonious-souffle-660af0.netlify.app/";
+$offer = "https://grand-panda-280ba1.netlify.app/";
 
 // Allowed countries — jahan offer dikhana hai
 $allowed = ['US'];
